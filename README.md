@@ -1,6 +1,4 @@
-Perfeito! Segue a versão **bem simples, direta e limpa**, ideal para GitHub:
 
----
 
 # 📊 Dashboard Xbox Game Pass
 
@@ -43,7 +41,3 @@ git clone https://github.com/Gulyrical/Dashboard_Vendas_Xbox_Excel
 2. Abra o arquivo Excel do projeto.
 
 3. Interaja com o dashboard.
-
----
-
-Se quiser, posso deixar ainda **mais enxuto estilo portfólio** (tipo só título + descrição + print) ou adaptar para **README padrão corporativo**.
